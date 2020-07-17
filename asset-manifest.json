@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-weather-app/static/css/main.2d905351.chunk.css",
+    "main.js": "/simple-weather-app/static/js/main.c371a2d7.chunk.js",
+    "main.js.map": "/simple-weather-app/static/js/main.c371a2d7.chunk.js.map",
+    "runtime-main.js": "/simple-weather-app/static/js/runtime-main.ea2d7dcf.js",
+    "runtime-main.js.map": "/simple-weather-app/static/js/runtime-main.ea2d7dcf.js.map",
+    "static/js/2.095184d7.chunk.js": "/simple-weather-app/static/js/2.095184d7.chunk.js",
+    "static/js/2.095184d7.chunk.js.map": "/simple-weather-app/static/js/2.095184d7.chunk.js.map",
+    "index.html": "/simple-weather-app/index.html",
+    "precache-manifest.05d2975be2d8532e674029e968a8f1ad.js": "/simple-weather-app/precache-manifest.05d2975be2d8532e674029e968a8f1ad.js",
+    "service-worker.js": "/simple-weather-app/service-worker.js",
+    "static/css/main.2d905351.chunk.css.map": "/simple-weather-app/static/css/main.2d905351.chunk.css.map",
+    "static/js/2.095184d7.chunk.js.LICENSE.txt": "/simple-weather-app/static/js/2.095184d7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/simple-weather-app/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea2d7dcf.js",
+    "static/js/2.095184d7.chunk.js",
+    "static/css/main.2d905351.chunk.css",
+    "static/js/main.c371a2d7.chunk.js"
+  ]
+}
